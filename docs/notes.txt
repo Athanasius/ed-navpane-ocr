@@ -1,0 +1,46 @@
+For a 1920x1080 image, viewing the nav pane via '1' (key bind, not
+headlook):
+
+top-left:	458 , 285
+top-right:	1344 , 272
+bottom-left:	490 , 832
+bottom-right:	1358 , 743
+
+max-width:	900
+max-height:	560
+
+left-height:	547
+right-height:	471
+
+top-width:	886
+bottom-width:	868
+
+So transform to, using top-left as anchor:
+
+top-left:	458 , 285
+top-right:	1340 , 285
+bottom-left:	458 , 835
+bottom-right:	1340 , 835
+
+Checking the result and adjusting to have things look square with
+selection tool we get:
+
+convert INPUTFILE \
+	-matte \
+	-virtual-pixel transparent \
+	-distort Perspective \
+		'458,285 458,285 \
+		 1344,272 1340,285 \
+		 492,832 458,835 \
+		 1358,744 1341,835' \
+	OUTPUTFILE
+
+convert Screenshot_1032-squared.bmp \
+	-matte \
+	-virtual-pixel transparent \
+	-distort Perspective \
+		'458,285 458,285 \
+		 1344,272 1340,285 \
+		 492,832 458,835 \
+		 1358,744 1341,835' \
+	OUTPUTFILE
