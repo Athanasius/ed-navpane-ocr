@@ -35,7 +35,7 @@ convert INPUTFILE \
 		 1358,744 1341,835' \
 	OUTPUTFILE
 
-convert Screenshot_1032-squared.bmp \
+convert Screenshot_1032.bmp \
 	-matte \
 	-virtual-pixel transparent \
 	-distort Perspective \
@@ -43,4 +43,4 @@ convert Screenshot_1032-squared.bmp \
 		 1344,272 1340,285 \
 		 492,832 458,835 \
 		 1358,744 1341,835' \
-	OUTPUTFILE
+	OUTPUTFILE.bmp
