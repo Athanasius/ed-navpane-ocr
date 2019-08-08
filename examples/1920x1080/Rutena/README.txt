@@ -1,0 +1,1 @@
+../../../docs/tesseract-custom-language-README.txt

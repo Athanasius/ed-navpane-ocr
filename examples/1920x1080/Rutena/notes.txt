@@ -1,0 +1,113 @@
+Screenshot_1052.bmp should be the same as Screenshot_1044.bmp except no AA
+Screenshot_1044.bmp & Screenshot_1052.bmp
+<inv>	RUTENA A						  32.0Ls
+	 RUTENA A 1						  5.45Mm
+	  <WEITZ CITY>						    861m
+	  WALDROP PALACE					  4.85Mm
+	  HENDERSON LANDING ++ [MEDIUM SECURITY]		  5.47Mm
+	 NAV BEACON						  27.8Ls
+	 RUTENA A 2						  61.5Ls
+	  BERGERAC LANDING ++ [LOW SECURITY]			  61.5Ls
+	  SZAMEIT'S INHERITANCE					  61.5Ls
+	  HOLBERG BECON ++ [LOW SECURITY]			  61.5Ls
+	  MCDIVITT SETTLEMENT					  61.5Ls
+	 RUTENA A 3						   123Ls
+  ABCDEFGHIJKLMNOPRSTUVWXYZmsy1234567890-.+[]<>                            
+  ABCDE GHI  LMNOPRSTUVW YZmsy12345678 0 .+[]<>                            
+Screenshot_1045.bmp
+<inv>	 RUTENA A 3						   123Ls
+	 RUTENA A 4						   170Ls
+	  RUTENA A 4 A						   170Ls
+	   COKE INSTALLATION +++ [MEDIUM SECURITY]		   170Ls
+	   JANIFER VISTA					   170Ls
+	 RUTENA A 5						   221Ls
+	  RUTENA A 5 A						   221Ls
+	 RUTENA A 6						   341Ls
+	 RUTENA A 7						   539Ls
+	 RUTENA A 8						   785Ls
+	 RUTENA A 9						 1,824Ls
+	  RUTENA A 9 A						 1,823Ls
+  ABCDEFGHIJKLMNOPRSTUVWXYZmsy1234567890-.+[]<>                            
+       F   JK                         9
+Screenshot_1046.bmp
+	  RUTENA A 9 A						 1,823Ls
+	  RUTENA A 9 B						 1,824Ls
+	  RUTENA A 9 G						 1,825Ls
+	  RUTENA A 9 C						 1,827Ls
+	  RUTENA A 9 D						 1,827Ls
+	  RUTENA A 9 E						 1,828Ls
+	  RUTENA A 9 F						 1,829Ls
+	  RUTENA A 9 H						 1,832Ls
+	  CHU CITY						 1,852Ls
+	  RUTENA A 10						 2,639Ls
+	RUTENA B						19,197Ls
+<inv>	 RUTENA B 1						19,424Ls
+Screenshot_1047.bmp
+	 RUTENA B 1						19,424Ls
+	  RUTENA B 1 A						19,424Ls
+	   FISK SURVEY + [LOW SECURITY]				19,424Ls
+	   ASIRE OBSERVATORY + [MEDIUM SECURITY]		19,424Ls
+	 RUTENA B 3						19,467Ls
+	 RUTENA B 2						19,668Ls
+	LYNCIS SECTOR IR-W C1-20				  5.42Ly
+	SHARIJIO						  7.27Ly
+	MUKUN							  8.93Ly
+	LYNCIS SECTOR YU-P B5-5					  9.69Ly
+	SELGETH							  9.94Ly
+<inv>	LYNCIS SECTOR UO-R B4-0					  10.2Ly
+  ABCDEFGHIJKLMNOPRSTUVWXYZmsy1234567890-.+[]<>                            
+                                        -
+Screenshot_1048.bmp
+	LYNCIS SECTOR UO-R B4-0					  10.2Ly
+	LYNCIS SECTOR ZU-P B5-6					  10.6Ly
+	AMY-CHARLOTTE						  10.9Ly
+	LYNCIS SECTOR YU-P B5-4					  11.1Ly
+	KAMUTI							  11.1Ly
+	LYNCIS SECTOR ZU-P B5-1					  11.3Ly
+	GUANATAMAS						  11.5Ly
+	BELLA							  11.7Ly
+	LYNCIS SECTOR JM-W D1-142				  12.1Ly
+	TOFANA							  12.3Ly
+	MALEAN							  12.7Ly
+<inv>	ALEXIS CENTAURI						  13.3Ly
+  ABCDEFGHIJKLMNOPRSTUVWXYZmsy1234567890-.+[]<>                            
+                        X
+Screenshot_1049.bmp
+	ALEXIS CENTAURI						  13.3Ly
+	HIP 25880						  13.5Ly
+	SANDA							  13.7Ly
+	LYNCIS SECTOR VO-R B4-5					  13.9Ly
+	LYNCIS SECTOR IR-W C1-7					  14.2Ly
+	DAURTU							  14.5Ly
+	LYNCIS SECTOR ZU-P B5-5					  14.9Ly
+	HIP 32806						  15.6Ly
+	LTT 11926						  15.6Ly
+	LYNCIS SECTOR CO-R B4-1					  16.2Ly
+	PONGKALA						  16.3Ly
+<inv>	BD+54 886						  16.3Ly
+Screenshot_1050.bmp
+	BD+54 886						  16.3Ly
+	LYNCIS SECTOR ZU-P B5-3					  16.3Ly
+	LYNCIS SECTOR UO-R B4-1					  16.4Ly
+	OISI							  16.5Ly
+	BALISCII						  16.6Ly
+	LYNCIS SECTOR ZU-P B5-4					  17.0Ly
+	SUI REDD						  17.2Ly
+	MBEGUENCHU						  17.8Ly
+	LYNCIS SECTOR IR-W C1-10				  17.9Ly
+	LYNCIS SECTOR ZU-P B5-2					  18.0Ly
+	HR 1593							  18.2Ly
+<inv>	FORSHA							  18.4Ly
+Screenshot_1051.bmp
+	LYNCIS SECTOR IR-W C1-10				  17.9Ly
+	LYNCIS SECTOR ZU-P B5-2					  18.0Ly
+	HR 1593							  18.2Ly
+	FORSHA							  18.4Ly
+	MCC 460							  18.5Ly
+	LYNCIS SECTOR VO-R B4-2					  18.6Ly
+	LYNCIS SECTOR IR-W C1-11				  19.0Ly
+	LYNCIS SECTOR XJ-R B4-3					  19.2Ly
+	HIP 29720						  19.3Ly
+	WATIWATI						  19.3Ly
+	LYNCIS SECTOR JM-W D1-143				  19.4Ly
+<inv>	UTERO							  19.6Ly
