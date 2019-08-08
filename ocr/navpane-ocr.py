@@ -23,7 +23,8 @@ if len(tools) == 0:
 tool = tools[0]
 print("Will use tool '%s'" % (tool.get_name()))
 # Ex: Will use tool 'libtesseract'
-os.environ['TESSDATA_PREFIX'] = '/home/users/athan/games/elite-dangerous/tools/ed-navpane-ocr/tessdata'
+#os.environ['TESSDATA_PREFIX'] = '/home/users/athan/games/elite-dangerous/tools/ed-navpane-ocr/tessdata'
+os.environ['TESSDATA_PREFIX'] = '/home/users/athan/games/elite-dangerous/tools/ed-navpane-ocr/docs/dubliner-0.0.4-training/training/numbers_eurocaps/tessdata'
 
 langs = tool.get_available_languages()
 print("Available languages: %s" % ", ".join(langs))
@@ -33,7 +34,8 @@ print("Will use lang '%s'" % (lang))
 # Note that languages are NOT sorted in any way. Please refer
 # to the system locale settings for the default language
 # to use.
-ocrLang = 'elitedangerous-systemname'
+#ocrLang = 'elitedangerous-systemname'
+ocrLang = 'eng1'
 
 def selectEDOrange(p):
   #print p
